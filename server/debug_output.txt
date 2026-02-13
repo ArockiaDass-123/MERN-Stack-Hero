@@ -1,0 +1,6 @@
+User arockiadassj5: 698f58975e7e7f347d9d8fbb (dass)
+User organizer: 698f584a18b23a857294f2fd (organizer@example.com)
+Total Events: 11
+Past Events count: 5
+Registrations for arockiadassj5: 6
+Registrations for organizer: 0
