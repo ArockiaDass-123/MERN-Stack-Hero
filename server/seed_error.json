@@ -1,4 +1,0 @@
-{
-  "message": "querySrv ENOTFOUND _mongodb._tcp.123",
-  "stack": "Error: querySrv ENOTFOUND _mongodb._tcp.123\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:240:17)"
-}
